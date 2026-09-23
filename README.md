@@ -15,9 +15,9 @@ Sync Data. Overlay Metrics. Export Video.
         AbeGO is a WIN desktop tool designed to turn your ride videos or other outdoor activities into professional looking telemetry clips.<br>  
         Simply import a GPX file from Strava, Garmin, or any other GPS device, add your action camera video, and effortlessly sync the GPS data with your footage.<br>  
         Once synced, you can export partial highlights or full length videos with your real time activity metrics displayed directly on the screen.
-         <br> <h1>🐻 Install options: </h1><br>
-         <pre><code>git clone "https://github.com/abeamar/AbeGO.git"</code></pre><br>
-         Download the latest AbeGO.exe binary.
+         <br> <h1>🐻 Download & Installation: </h1><br>
+         Go to the AbeGO Latest Release Page, <br> –  <a href=https://github.com/abeamar/AbeGO/releases/tag/v1.0.0>AbeGO v1.0.0</a><br> 
+         Download the latest AbeGO.exe binary from the Assets section.<br> 
          The application is completely self-contained, no installation or Python setup required.
        <br>
     </section>
