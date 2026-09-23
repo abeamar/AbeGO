@@ -45,7 +45,8 @@ Sync Data. Overlay Metrics. Export Video.
       <p align="center">
       <img src="example_ab0.jpg" width="600" alt="AbeGO Main Screen">
       <img src="example_ab1.jpg" width="600" alt="Example 1">
-      <img src="example_ab2.jpg" width="600" alt="Example 2">        
+      <img src="example_ab2.jpg" width="600" alt="Example 2">      
+      <img src="example_ab5.jpg" width="600" alt="Example 3">    
       </p>
     </section>
             <hr>
